@@ -1,6 +1,6 @@
 # 📖 Ace-personal-portfolio
 
-<img src="images/readme/banner.png">
+<img src="images/readme/banner.">
 
 ## 🛠 Built With
 
