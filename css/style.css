@@ -1627,7 +1627,12 @@ Testimonial with video section
     padding: 0 15px;
 }
 
-
+.contact-section #submit-btn{
+    margin-top: 5px;
+    color: green;
+    opacity: 0;
+    transition: all .2s ease;
+}
 
 
 
