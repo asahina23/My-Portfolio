@@ -355,13 +355,3 @@ function msgSuccess(){
   let showMsg = document.getElementById("submit-btn")
   showMsg.style.opacity = 1;
 }
-
-document.querySelector("#form1").onsubmit = function (event) {
-  const otherForm = document.querySelector("#form2");
-  if (otherForm.value === "") {
-    event.preventDefault();
-    alert(
-      "Error: Form 2 is empty. Please fill out both forms before submitting."
-    );
-  }
-};
